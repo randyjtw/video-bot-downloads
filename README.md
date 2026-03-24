@@ -4,12 +4,19 @@
 
 ## 下載檔案
 
-1. `video_bot_mac_v1.0.zip`（macOS）
-2. `video_bot_win_v1.0.zip`（Windows）
+1. `video_bot_mac_v1.01.zip`（macOS）
+2. `video_bot_win_v1.01.zip`（Windows）
+3. `video_bot_mac_v1.0.zip`（macOS，舊版）
+4. `video_bot_win_v1.0.zip`（Windows，舊版）
+
+## v1.01 變更內容
+
+1. 新增 AI agnet
+2. 新增 Agent 人格設定
 
 ## macOS 安裝與啟動
 
-1. 解壓縮 `video_bot_mac_v1.0.zip`
+1. 解壓縮 `video_bot_mac_v1.01.zip`
 2. 進入 `mac/`
 3. 雙擊 `launch_mac.command`
 4. 開啟瀏覽器進入 `http://localhost:8080`
@@ -18,7 +25,7 @@
 
 ## Windows 安裝與啟動
 
-1. 解壓縮 `video_bot_win_v1.0.zip`
+1. 解壓縮 `video_bot_win_v1.01.zip`
 2. 進入 `win/`
 3. 雙擊 `launch_windows.bat`
 4. 開啟瀏覽器進入 `http://localhost:8080`
